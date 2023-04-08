@@ -2,6 +2,7 @@
 int main()
 { 
   printf("1.RC");
+  printf("git");
   printf("2.AK");
 }
 
